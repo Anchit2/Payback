@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "811322133046",
+    "firebase_url": "https://payback-acae8-default-rtdb.firebaseio.com",
+    "project_id": "payback-acae8",
+    "storage_bucket": "payback-acae8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811322133046:android:978e007ce9865341476697",
+        "android_client_info": {
+          "package_name": "com.example.payback"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "811322133046-b9jtpgm27rgb54uak0307h901jqo7dun.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCn_oZVDGHBlXYpti-o9mYLx8AONoL0JAU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "811322133046-b9jtpgm27rgb54uak0307h901jqo7dun.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
